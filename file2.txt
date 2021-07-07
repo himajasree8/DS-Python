@@ -1,5 +1,6 @@
 hello good morning
 this is himaja 
 experimenting on nano command
-in this terminal 
+in this terminal
+MAke changes to the file 
 
